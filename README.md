@@ -53,10 +53,10 @@ You can use ML Pipeline Preparation Notebook to re-train the model or tune it th
 ## How to Use It 
 1.	Go to http://0.0.0.0:3001/ and type the message in text box
 2.	Then click classify
- 
+![Sample Input](screencapture-0-0-0-0-3001-go-2019-08-08-22_43_31.png) 
 2.a. you can see the analyzing of categories in home page
- 
+ ![Sample Input](newplot.png) 
 2.	After click classify you will get all categories that message belong to.
- 
+![Sample Input](screencapture-0-0-0-0-3001-go-2019-08-08-22_43_31.png) 
 
 
