@@ -14,7 +14,13 @@
 This Project is one of Udacity Requirements to complete Data science Nano Degree 
 
 In this project, We will try to build a small system to categories the messages that come for disaster center from tweets on twitter platform to make the work easy by converting the messages to the desired department we will see   how to build ETL Pipeline and NLP pipeline, plus build our model using ML pipeline 
-Getting Started
+
+In this project we use data engineering to analyze and clean data and then apply machine learning model by using the data provided by Figure Eight and the apply data engineering on this data and then apply the machine learning model where we receive messages to the disaster center by users and try to know Categorize of this message based on cleaning data.
+below we will see the most important file and function in this project.
+1- process_data.py in this file we build ETL Pipeline contains merge data together and remove outliers and duplicate records cleaning and preparing the data.
+2- rain_classifier.py in this file we work on NLP pipeline we fetch the clean data and do tokenize and lemmatize on data record then build Machine learning model and finally we save the model to apply it on our web page.
+
+
 Installing
 Clone this GIT repository:
 git clone 
